@@ -19,7 +19,7 @@
                 <label>Deportes</label><br>
                 <input type="checkbox" name="Música" value="Música"/>
                 <label>M&uacute;sica</label><br>
-                <input type="checkbox" name="cine" value="cine"/>
+                <input type="checkbox" name="p" value="cine"/>
                 <label>Cine</label><br>
                 <input type="checkbox" name="Lectura" value="Lectura"/>
                 <label>Lectura</label><br>
