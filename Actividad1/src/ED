@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <table align="center" border="1">
+        <td>
+            <form>
+                Nombre:
+                <input name=“nombre” type=“text”> <br>
+                Sexo: 
+                <input name="Sexo" type="radio" value="Sexo" />
+                <label>Var&oacute;n</label>
+                <input name="Sexo" type="radio" value="Sexo"/>
+                <label>Hembra</label> <br>
+                E-mail:
+                <input name=“Email” type=“text”> <br>
+                Mensaje:
+                <textarea nombre="texto" cols="20" rows="3"></textarea> <br>
+                Aficiones: <br>
+                <input type="checkbox" name="deportes" value="futbol"/>
+                <label>Deportes</label><br>
+                <input type="checkbox" name="Música" value="Música"/>
+                <label>M&uacute;sica</label><br>
+                <input type="checkbox" name="cine" value="cine"/>
+                <label>Cine</label><br>
+                <input type="checkbox" name="Lectura" value="Lectura"/>
+                <label>Lectura</label><br>
+                <input type="checkbox" name="Otros" value="Otros"/>
+                <label>Otros</label><br>
+                <input type="submit" name="BEnviar" value="Enviar" />
+                <input type="reset" name="BRestablecer" value="Restablecer" />
+            </form>
+        </td>
+    </table>
+</html>
